@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'almond-40',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'clyftjynp000f6rlxeu3kghkr',
+      url: 'https://test-custom-application-1qbuq0t7t.vercel.app/',
     },
   },
   oAuthScopes: {
