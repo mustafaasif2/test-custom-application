@@ -4,7 +4,6 @@ import Spacings from '@commercetools-uikit/spacings';
 import Text from '@commercetools-uikit/text';
 import messages from './messages';
 
-
 type TWrapWithProps = {
   children: ReactNode;
   condition: boolean;

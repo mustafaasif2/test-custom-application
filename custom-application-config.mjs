@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: 'clyftjynp000f6rlxeu3kghkr',
-      url: 'https://test-custom-application-1qbuq0t7t.vercel.app',
+      url: 'https://test-custom-application.vercel.app/',
     },
   },
   oAuthScopes: {
